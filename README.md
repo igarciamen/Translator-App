@@ -4,7 +4,11 @@ A native Android translation and language-assistance app built with Kotlin and J
 
 ## Demo
 
-https://github.com/user-attachments/assets/025c5062-fc05-4ac4-b0b6-a43e7d667bf3
+
+
+https://github.com/user-attachments/assets/de0d8aed-0fb1-45e4-8bec-544cf6218588
+
+
 
 ## Features
 
