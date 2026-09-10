@@ -2,6 +2,10 @@
 
 A native Android translation and language-assistance app built with Kotlin and Jetpack Compose. AiTranslator goes beyond plain text translation, combining text, voice, camera, dictionary, and phrasebook tools into a single app.
 
+## Demo
+
+https://github.com/user-attachments/assets/025c5062-fc05-4ac4-b0b6-a43e7d667bf3
+
 ## Features
 
 ### 🔤 Translate
